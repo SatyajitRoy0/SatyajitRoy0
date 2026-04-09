@@ -1,21 +1,6 @@
-<style>
-@keyframes thunder {
-  0%, 9%, 11%, 19%, 21%, 69%, 71%, 100% {
-    text-shadow: 0 0 4px #fff, 0 0 11px #fff, 0 0 19px #fff, 0 0 40px #0ff, 0 0 80px #0ff, 0 0 90px #0ff;
-    color: #fff;
-  }
-  10%, 20%, 70% {
-    text-shadow: none;
-    color: #444;
-  }
-}
-.thunder-effect {
-  animation: thunder 4s infinite;
-  font-weight: bold;
-  font-size: 1.5em;
-}
-</style>
-<p align="center"><span class="thunder-effect">Satyaajith Roy</span><br><br>AIDS Student | Fresher Full Stack Developer | Skilled in Angular, Django, Python
+
+
+<p align="center">Satyaajith Roy<br><br>AIDS Student | Fresher Full Stack Developer | Skilled in Angular, Django, Python
     & SQL | Passionate Learner</p>
 
 ###
@@ -76,3 +61,4 @@
 </div>
 
 ###
+
